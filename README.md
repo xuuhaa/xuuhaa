@@ -2,7 +2,7 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xuuhaa/xuuhaa/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/developer.svg" height="225px" />
     <img src="https://github.com/lowlighter/metrics/xuuhaa/assets/images/coding.gif" />
   </picture>
