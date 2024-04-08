@@ -86,32 +86,6 @@
   </picture>
 </div>
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://github.com/xuuhaa/xuuhaa/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xuuhaa&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xuuhaa&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuuhaa&theme=default&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://github.com/xuuhaa/xuuhaa/assets/images/right.png" />
-
-<!-- metrics 基础资料 -->
-<img width="150" src="https://github.com/xuuhaa/xuuhaa/assets/images/cxyduck.gif" />&emsp;
-<img src="https://github.com/xuuhaa/xuuhaa/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://github.com/xuuhaa/xuuhaa/assets/images/cxyduck.gif" />
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xuuhaa&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xuuhaa&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=xuuhaa&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
-
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -127,10 +101,6 @@
   
 <!-- GitHub 奖杯🏆 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=xuuhaa&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
-
-<!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xuuhaa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xuuhaa&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
 <!-- Wakatime Graph-->
 <table>
@@ -209,13 +179,6 @@
 <img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/python.webp">
 <img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/js.webp">
 <img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/github.webp">
-
-<!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xuuhaa/xuuhaa/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xuuhaa/xuuhaa/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://github.com/xuuhaa/xuuhaa/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
 
 </div>
 
