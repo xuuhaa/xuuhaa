@@ -2,8 +2,8 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/developer.svg" height="225px" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xuuhaa/xuuhaa/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xuuhaa/xuuhaa/assets/images/developer.svg" height="225px" />
     <img src="https://github.com/lowlighter/metrics/xuuhaa/assets/images/coding.gif" />
   </picture>
 
@@ -23,9 +23,9 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xuuhaa/xuuhaa/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xuuhaa/xuuhaa/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/xuuhaa/xuuhaa/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
@@ -38,7 +38,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/jobs.png" />
+<img align="right" width="88" src="https://github.com/xuuhaa/xuuhaa/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是xuuhaa。</p>
 <p>&emsp;&emsp;希望能创建出孪生地球。</p>
@@ -50,16 +50,16 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/yuanze.png" />
+<img align="right" width="88" src="https://github.com/xuuhaa/xuuhaa/assets/images/yuanze.png" />
 
-- [苏交科](https://lusun.com/) &emsp; 📌 2022-06-01 —— Now
+- [苏交科](http://www.jsti.com/) &emsp; 📌 2022-06-01 —— Now
 
   - 工作岗位：三级工程师
   - 工作内容：三维模型训练
 
 <img align="right" width="88" src="https://github.com/lowlighter/metrics/xuuhaa/assets/images/tuhui.png" />
 
-- [南京国睿信维软件有限公司](https://www.tuhuimap.com/) &emsp; 📌 2016-12-1 —— 2022-05-30
+- [南京国睿信维软件有限公司](http://www.glaway.com/) &emsp; 📌 2016-12-1 —— 2022-05-30
 
   - 工作岗位：技术顾问
   - 工作内容：3DE二次开发
@@ -70,12 +70,12 @@
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/xuuhaa/xuuhaa/assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/man_run.png" width="250" height="250" />
+<img src="https://github.com/xuuhaa/xuuhaa/assets/images/man_run.png" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div>
@@ -87,18 +87,18 @@
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/left.png" />
+<img align="left" width="150" src="https://github.com/xuuhaa/xuuhaa/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xuuhaa&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xuuhaa&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuuhaa&theme=default&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/right.png" />
+<img align="right" width="150"  src="https://github.com/xuuhaa/xuuhaa/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/cxyduck.gif" />
+<img width="150" src="https://github.com/xuuhaa/xuuhaa/assets/images/cxyduck.gif" />&emsp;
+<img src="https://github.com/xuuhaa/xuuhaa/github-metrics/base.svg" />
+&emsp;<img width="150" src="https://github.com/xuuhaa/xuuhaa/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -115,12 +115,12 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/xuuhaa/xuuhaa/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/mb.png" width="250" height="250" />
+<img src="https://github.com/xuuhaa/xuuhaa/assets/images/mb.png" width="250" height="250" />
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
@@ -143,12 +143,12 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/xuuhaa/xuuhaa/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/man.png" width="250" height="250" />
+<img src="https://github.com/xuuhaa/xuuhaa/assets/images/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 
@@ -201,72 +201,72 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/github.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/html.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/vscode.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/react.webp">
+<img height="95" width="95" src="https://github.com/xuuhaa/xuuhaa/assets/images/vue.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/python.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/js.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/github.webp">
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xuuhaa/xuuhaa/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xuuhaa/xuuhaa/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://github.com/xuuhaa/xuuhaa/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/xuuhaa/xuuhaa/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/githubgif.gif" />
+<img width="36%" src="https://github.com/xuuhaa/xuuhaa/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://github.com/xuuhaa/xuuhaa/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/xuuhaa/xuuhaa/assets/images/icon.png" /></div>
+<img src="https://github.com/xuuhaa/xuuhaa/assets/images/icon.png" /></div>
 </div>
 
     steps:
