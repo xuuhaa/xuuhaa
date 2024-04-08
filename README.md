@@ -1,6 +1,6 @@
 <div align="center">
    <div>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=647CF792&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=647CF792&random=false&width=435&lines=Hello+World" alt="Typing SVG" /></a>
   </div>
   <!-- knock code pictures 敲代码的图片 -->
 <picture>
