@@ -1,5 +1,4 @@
-- 🌱 I’m currently learning ...
-- <div align="center"> <img src="https://metrics.lecoq.io/xuuhaa?template=classic&config.timezone=Asia%2FNanjing"> </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuuhaa)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **xuuhaa/xuuhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
