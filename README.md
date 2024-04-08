@@ -2,24 +2,14 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xuuhaa/xuuhaa/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/developer.svg" height="225px" />
-    <img src="https://github.com/lowlighter/metrics/xuuhaa/assets/images/coding.gif" />
+    <img src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/coding.gif" />
   </picture>
+
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/xuuhaa/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@xuuhaa"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-  </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
