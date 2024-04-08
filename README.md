@@ -45,7 +45,7 @@
 
 <img align="right" width="88" src="https://github.com/xuuhaa/xuuhaa/raw/main/assets/images/yuanze.png" />
 
-- [苏交科](http://www.jsti.com/) &emsp; 📌 2022-06-01 —— Now
+- [苏交科集团](http://www.jsti.com/) &emsp; 📌 2022-06-01 —— Now
 
   - 工作岗位：三级工程师
   - 工作内容：三维模型训练
