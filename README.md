@@ -50,7 +50,7 @@
   - 工作岗位：三级工程师
   - 工作内容：三维模型训练
 
-<img align="right" width="88" src="https://github.com/lowlighter/metrics/xuuhaa/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://github.com/xuuhaa/xuuhaa/raw/main/assets/images/tuhui.png" />
 
 - [南京国睿信维软件有限公司](http://www.glaway.com/) &emsp; 📌 2016-12-1 —— 2022-05-30
 
