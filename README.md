@@ -2,8 +2,8 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xuuhaa/xuuhaa/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xuuhaa/xuuhaa/assets/images/developer.svg" height="225px" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/developer.svg" height="225px" />
     <img src="https://github.com/lowlighter/metrics/xuuhaa/assets/images/coding.gif" />
   </picture>
 
@@ -38,7 +38,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://github.com/xuuhaa/xuuhaa/assets/images/jobs.png" />
+<img align="right" width="88" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是xuuhaa。</p>
 <p>&emsp;&emsp;希望能创建出孪生地球。</p>
@@ -50,7 +50,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://github.com/xuuhaa/xuuhaa/assets/images/yuanze.png" />
+<img align="right" width="88" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/yuanze.png" />
 
 - [苏交科](http://www.jsti.com/) &emsp; 📌 2022-06-01 —— Now
 
@@ -70,12 +70,12 @@
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://github.com/xuuhaa/xuuhaa/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://github.com/xuuhaa/xuuhaa/assets/images/man_run.png" width="250" height="250" />
+<img src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/man_run.png" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div>
@@ -89,12 +89,12 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://github.com/xuuhaa/xuuhaa/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://github.com/xuuhaa/xuuhaa/assets/images/mb.png" width="250" height="250" />
+<img src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/mb.png" width="250" height="250" />
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
@@ -113,12 +113,12 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://github.com/xuuhaa/xuuhaa/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://github.com/xuuhaa/xuuhaa/assets/images/man.png" width="250" height="250" />
+<img src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 
@@ -171,25 +171,25 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/html.webp">
-<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/vscode.webp">
-<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/react.webp">
-<img height="95" width="95" src="https://github.com/xuuhaa/xuuhaa/assets/images/vue.webp">
-<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/python.webp">
-<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/js.webp">
-<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/assets/images/github.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/html.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/vscode.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/react.webp">
+<img height="95" width="95" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/vue.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/python.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/js.webp">
+<img height="100" width="100" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/github.webp">
 
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://github.com/xuuhaa/xuuhaa/assets/images/hr.gif" />
+<img width="200%" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://github.com/xuuhaa/xuuhaa/assets/images/githubgif.gif" />
+<img width="36%" src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
@@ -229,7 +229,7 @@
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
-<img src="https://github.com/xuuhaa/xuuhaa/assets/images/icon.png" /></div>
+<img src="https://github.com/xuuhaa/xuuhaa/tree/main/assets/images/icon.png" /></div>
 </div>
 
 
