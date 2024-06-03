@@ -62,7 +62,7 @@
 ### 🏢 Work Experience
 
 <img align="right" width="88" src="https://github.com/xuuhaa/xuuhaa/raw/main/assets/images/yuanze.png" />
-- [Trending](https://github.com/trending) &emsp; 📌 2022-06-01 —— Now
+- [Trending](https://github.com/trending) &emsp;
 </td></tr>
 <tr><td>
 
